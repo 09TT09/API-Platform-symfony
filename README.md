@@ -17,8 +17,7 @@ npm run build
 
 Now the Url "http://127.0.0.1:8000/api" should work: <br />
 
-
-
+![image 1](https://github.com/09TT09/API-Platform-symfony/tree/main/readmeimages/image_1.png)
 
 ### Create and Fill The Database :  
 Add a file ".env.local" to the project root based on the .env file
@@ -83,4 +82,4 @@ password: password
 
 you can make various actions from here on the users or the countries
 
-![image 2](https://github.com/09TT09/API-Platform-symfony/readmeimages/image_2.png)
+![image 2](https://github.com/09TT09/API-Platform-symfony/tree/main/readmeimages/image_2.png)
