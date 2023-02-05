@@ -1,0 +1,6 @@
+easy_admin:
+    entities:
+        User:
+            actions:
+                edit:
+                    if: 'item.getId() != app.user.getId()'

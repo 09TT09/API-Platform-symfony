@@ -1,0 +1,15 @@
+api_platform:
+    title: 'API Country'
+    description: 'project symfony with API Platform + Rest Countries API'
+    version: '1.0.0'
+    show_webby: false
+    mapping:
+        paths: ['%kernel.project_dir%/src/Entity']
+    patch_formats:
+        json: ['application/merge-patch+json']
+    swagger:
+        versions: [3]
+        api_keys:
+            JWT:
+                name: Authorization
+                type: header
