@@ -82,3 +82,5 @@ email : admin@gmail.com
 password: password  
 
 you can make various actions from here on the users or the countries
+
+![image 2](https://github.com/09TT09/API-Platform-symfony/readmeimages/image_2.png)
