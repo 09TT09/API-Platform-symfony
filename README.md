@@ -82,5 +82,4 @@ password: password
 
 you can make various actions from here on the users or the countries
 
-<img src="https://github.com/09TT09/API-Platform-symfony/tree/main/readmeimages/image_2.png">
 ![image 2](https://github.com/09TT09/API-Platform-symfony/tree/main/readmeimages/image_2.png?raw=true)
